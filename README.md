@@ -14,4 +14,4 @@ Indicar si el número ingresado es negativo o posiivo.
 5. FIN
 
 ##imagen
-![alt text](http:// "Imagen diagrama")
+![alt text](http://1.1m.yt/WnvWv0p.jpg "Imagen diagrama")
